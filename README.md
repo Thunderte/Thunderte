@@ -5,5 +5,4 @@
 
 <p><img src="https://github.com/Thunderte/github-stats/blob/master/generated/languages.svg" align="left"></p>
 <p><img src="https://github.com/Thunderte/github-stats/blob/master/generated/overview.svg" align="right"></p>
-<img align="center" src="https://github.com/Thunderte/github-stats/blob/master/generated/github-snake.svg"/>
 
